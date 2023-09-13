@@ -1,3 +1,0 @@
-<?php
-    echo"git reset"
-?>
