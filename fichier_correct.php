@@ -1,3 +1,3 @@
 <?php
-    echo"fichier correct";
+    echo "test git checkout commit";
 ?>
