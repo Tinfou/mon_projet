@@ -1,3 +1,3 @@
 <?php
-    echo"fichier correct";
+    echo "fichier correct";
 ?>
